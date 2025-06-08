@@ -16,19 +16,19 @@ global.botNumber = '' //Ejemplo: 573218138672
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-  ['573154062343', ' Propietario ', true],
-  ['5212202410659', 'zorrita', true],
-  ['5216631079388', 'neykor', true],
-  ['573214401313', 'emergencia', true],
-  ['18297521125', 'harvey', true],
-  ['79966006941', 'harvey', true],
-  ['18495838703', 'harvey', true]
+  ['59173315260', ' Propietario ', true],
+  ['59177425962', 'reportes', true],
+  ['', 'neykor', true],
+  ['', 'emergencia', true],
+  ['', 'harvey', true],
+  ['', 'harvey', true],
+  ['', 'harvey', true]
 ];
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.mods = []
-global.suittag = ['573154062343'] 
+global.suittag = ['59173315260'] 
 global.prems = []
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -62,18 +62,18 @@ global.avatar = 'https://files.catbox.moe/pzn79l.jpg'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.gp1 = 'https://chat.whatsapp.com/CDw7hpI30WjCyKFAVLHNhZ'
-global.comunidad1 = 'https://chat.whatsapp.com/Ekf7Ge36AthIUiCGIdRHR2'
-global.channel = 'https://whatsapp.com/channel/0029Vb6AROo1noyzTUiHdh1n'
-global.channel2 = 'https://whatsapp.com/channel/0029Vb6AROo1noyzTUiHdh1n'
-global.md = 'https://github.com/https0J/Destiny-Bot'
-global.correo = 'https0johan@gmail.com'
-global.cn ='https://whatsapp.com/channel/0029Vb6AROo1noyzTUiHdh1n';
+global.gp1 = ''
+global.comunidad1 = ''
+global.channel = ''
+global.channel2 = ''
+global.md = 'https://github.com/Andri1837/Shiroko-Bot.git'
+global.correo = 'andricalvarezgabriel7@gmail.com'
+global.cn ='';
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.catalogo = fs.readFileSync('./src/catalogo.jpg');
-global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: packname, orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
+global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "59173315260-59177425692@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: packname, orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
 global.ch = {
 ch1: '120363416409380841@newsletter',
 }
